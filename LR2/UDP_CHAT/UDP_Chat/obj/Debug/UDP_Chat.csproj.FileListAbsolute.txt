@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\UDP_Chat\UDP_Chat\bin\Debug\UDP_Chat.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\UDP_Chat\UDP_Chat\bin\Debug\UDP_Chat.exe
+c:\users\asus\documents\visual studio 2015\Projects\UDP_Chat\UDP_Chat\bin\Debug\UDP_Chat.pdb
+c:\users\asus\documents\visual studio 2015\Projects\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.exe
+c:\users\asus\documents\visual studio 2015\Projects\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.pdb
+C:\Users\Asus\Desktop\KSIS\LR1\UDP_CHAT\UDP_Chat\bin\Debug\UDP_Chat.exe.config
+C:\Users\Asus\Desktop\KSIS\LR1\UDP_CHAT\UDP_Chat\obj\Debug\UDP_Chat.exe
+C:\Users\Asus\Desktop\KSIS\LR1\UDP_CHAT\UDP_Chat\obj\Debug\UDP_Chat.pdb

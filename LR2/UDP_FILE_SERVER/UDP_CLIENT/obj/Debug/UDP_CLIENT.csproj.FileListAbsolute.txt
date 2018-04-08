@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\UDP_FILE_SERVER\UDP_CLIENT\bin\Debug\UDP_CLIENT.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\UDP_FILE_SERVER\UDP_CLIENT\bin\Debug\UDP_CLIENT.exe
+c:\users\asus\documents\visual studio 2015\Projects\UDP_FILE_SERVER\UDP_CLIENT\bin\Debug\UDP_CLIENT.pdb
+c:\users\asus\documents\visual studio 2015\Projects\UDP_FILE_SERVER\UDP_CLIENT\obj\Debug\UDP_CLIENT.exe
+c:\users\asus\documents\visual studio 2015\Projects\UDP_FILE_SERVER\UDP_CLIENT\obj\Debug\UDP_CLIENT.pdb
+c:\users\asus\documents\visual studio 2015\Projects\UDP_FILE_SERVER\UDP_CLIENT\obj\Debug\UDP_CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\KSIS\LR1\UDP_FILE_SERVER\UDP_CLIENT\bin\Debug\UDP_CLIENT.exe.config
+C:\Users\Asus\Desktop\KSIS\LR1\UDP_FILE_SERVER\UDP_CLIENT\obj\Debug\UDP_CLIENT.exe
+C:\Users\Asus\Desktop\KSIS\LR1\UDP_FILE_SERVER\UDP_CLIENT\obj\Debug\UDP_CLIENT.pdb
