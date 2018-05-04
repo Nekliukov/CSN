@@ -1,0 +1,13 @@
+E:\2 курс 2 семестр\ксис\3\time\time\time\bin\Debug\time.exe.config
+E:\2 курс 2 семестр\ксис\3\time\time\time\bin\Debug\time.exe
+E:\2 курс 2 семестр\ксис\3\time\time\time\bin\Debug\time.pdb
+E:\2 курс 2 семестр\ксис\3\time\time\time\obj\Debug\time.csprojResolveAssemblyReference.cache
+E:\2 курс 2 семестр\ксис\3\time\time\time\obj\Debug\time.exe
+E:\2 курс 2 семестр\ксис\3\time\time\time\obj\Debug\time.pdb
+C:\Users\nekro\Desktop\3\time\time\time\bin\Debug\time.exe.config
+C:\Users\nekro\Desktop\3\time\time\time\bin\Debug\time.exe
+C:\Users\nekro\Desktop\3\time\time\time\bin\Debug\time.pdb
+C:\Users\nekro\Desktop\3\time\time\time\obj\Debug\time.csprojResolveAssemblyReference.cache
+C:\Users\nekro\Desktop\3\time\time\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+C:\Users\nekro\Desktop\3\time\time\time\obj\Debug\time.exe
+C:\Users\nekro\Desktop\3\time\time\time\obj\Debug\time.pdb

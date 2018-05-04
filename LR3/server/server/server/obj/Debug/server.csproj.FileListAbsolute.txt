@@ -1,0 +1,6 @@
+E:\2 курс 2 семестр\ксис\3\server\server\server\bin\Debug\server.exe.config
+E:\2 курс 2 семестр\ксис\3\server\server\server\bin\Debug\server.exe
+E:\2 курс 2 семестр\ксис\3\server\server\server\bin\Debug\server.pdb
+E:\2 курс 2 семестр\ксис\3\server\server\server\obj\Debug\server.exe
+E:\2 курс 2 семестр\ксис\3\server\server\server\obj\Debug\server.pdb
+E:\2 курс 2 семестр\ксис\3\server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
